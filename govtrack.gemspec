@@ -2,7 +2,7 @@
 require File.expand_path('../lib/govtrack/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.name        = "gt-track"
+  gem.name        = "govtrack"
   gem.version     = GovTrack::Gem::VERSION
   gem.authors     = ["Noah Litvin"]
   gem.email       = ["noah.litvin@gmail.com"]
